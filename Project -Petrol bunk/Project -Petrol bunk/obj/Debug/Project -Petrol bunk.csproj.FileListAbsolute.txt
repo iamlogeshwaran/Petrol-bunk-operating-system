@@ -1,0 +1,12 @@
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\bin\Debug\Project -Petrol bunk.exe.config
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\bin\Debug\Project -Petrol bunk.exe
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\bin\Debug\Project -Petrol bunk.pdb
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project -Petrol bunk.csprojResolveAssemblyReference.cache
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project__Petrol_bunk.Form1.resources
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project__Petrol_bunk.Properties.Resources.resources
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project -Petrol bunk.csproj.GenerateResource.Cache
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project -Petrol bunk.exe
+c:\users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project -Petrol bunk.pdb
+C:\Users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project__Petrol_bunk.Admin.resources
+C:\Users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project__Petrol_bunk.Server.resources
+C:\Users\sathish\documents\visual studio 2012\Projects\Project -Petrol bunk\Project -Petrol bunk\obj\Debug\Project__Petrol_bunk.manager.resources
